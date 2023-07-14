@@ -1,0 +1,30 @@
+body {
+  margin: auto;
+  display:block;
+  padding: 20px;
+  background-color: rgb(20,200, 90);
+}
+h1 {
+  margin-left: 400px;
+  border: auto;
+  font-size: 43px;
+}
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+div {
+  float: left;
+  height: 470px;
+  width: 23%;
+  padding: 0 10px;
+}
+.ninja, .air pods{
+  margin: auto;
+  align: auto;
+  padding: auto;
+}
